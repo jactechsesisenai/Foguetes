@@ -1,8 +1,6 @@
 <span id="topo">
 <div align="center">
     
-![banner]()
-
 </div>
     
 <p align="center">
@@ -26,6 +24,15 @@ A JacTech disponibilizou um repositório com o objetivo de auxiliar você no des
 <span id="ManualDeUso">
 
 ## 🎯 Manual
+
+
+-Na seção de links para download, selecione o arquivo que deseja baixar e clique no seu nome abaixo da aba "Links" para ser redirecionado para a pasta correspondente.
+
+<img src="https://github.com/jactechsesisenai/Foguetes/blob/main/Imagens/links.jpg" height = 300  /> 
+
+-Em seguida, clique no botão verde marcado como "<> Code" e depois selecione "Download ZIP". Escolha a pasta desejada e prossiga com o download.
+
+<img src="https://github.com/jactechsesisenai/Foguetes/blob/main/Imagens/zip.jpg" height = 450  />     
 
 → [Voltar ao topo](#topo)
 
