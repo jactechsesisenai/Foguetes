@@ -51,10 +51,17 @@ A JacTech disponibilizou um repositório com o objetivo de auxiliar você no des
 
  ## 👥 Equipe  
     
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Scrum Master  | Flavio Eduardo Linguanotto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-linguanotto-b587361a4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/linguanotto)      |
-
-
+|    Função     | Nome                                  |                                                                                                                                                      E-mail                                                                                                                                                      |
+| :-----------: | :------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| --  | Endrew Ryan de Oliveira Bortoli |      endrew.ryan977@gmail.com    |
+| --  | Rafael |      rafaoliver5501@gmail.com    |
+| --  | Kauã |      godinhokaua@gmail.com    |
+| --  | Maria Matiotti|      mariaclaracaputo@gmail.com   |
+| --  | Nicolas Leonardo Cunha|      leo445go@gmail.com   |
+| --  | Gabrielle Nunes Silva|     gabinunes231106@gmail.com   |
+| --  | Isis Pires de Souza|     isis.pirez@gmail.com    |
+| --  | Maria Isabelli Aparecida Quintela Martins|    mariaquintela220@gmail.com    |
+| --  | Tomás Ramide Barros Pereira|     ramide.tomas07@gmail.com  |
+| --  | Isabella Fabiana Rodrigues Barbosa |    isabellafabianab@gmail.com   |
     
 → [Voltar ao topo](#topo)
